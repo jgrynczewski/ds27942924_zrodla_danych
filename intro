@@ -1,0 +1,19 @@
+Źródła danych:
+- piki
+- baza danych (relacyjne)
+
+Inna klasyfikacja źródeł danych:
+- nieustrukturyzowane
+- ustrukturyzowane
+
+Lokalizacja źródła danych:
+- lokalnie (na naszej maszynie)
+- zdalnie (na innej maszynie)
+
+Podstawowe operacje na danych
+CRUD
+C - Create
+R - Read
+U - Update
+D - Delete
+
